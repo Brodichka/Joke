@@ -1,6 +1,6 @@
-const url = require("http");
+const http = require("http");
 const path = require("path");
-const url = require("fs");
+const require = require("fs");
 const url = require("url");
 const dataPath = path.join(__direname, "data");
 
